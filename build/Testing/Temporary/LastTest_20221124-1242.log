@@ -1,0 +1,21 @@
+Start testing: Nov 24 13:42 CET
+----------------------------------------------------------
+1/1 Testing: usage_test
+1/1 Test: usage_test
+Command: "/Users/sebastianjohansen/Documents/GitHub/assignment-12-SebJohansen8763/build/tests/tests"
+Directory: /Users/sebastianjohansen/Documents/GitHub/assignment-12-SebJohansen8763/build/tests
+"usage_test" start time: Nov 24 13:42 CET
+Output:
+----------------------------------------------------------
+===============================================================================
+No tests ran
+
+<end of output>
+Test time =   0.22 sec
+----------------------------------------------------------
+Test Passed.
+"usage_test" end time: Nov 24 13:42 CET
+"usage_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 24 13:42 CET

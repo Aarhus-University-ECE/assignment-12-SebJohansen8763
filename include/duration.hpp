@@ -11,6 +11,16 @@ class Duration {
 	public:
 
 	Duration();
-	 ~Duration();
+
+	int getDuration();
+
+
+
+
+
+
+
+
+	~Duration();
 };
 #endif

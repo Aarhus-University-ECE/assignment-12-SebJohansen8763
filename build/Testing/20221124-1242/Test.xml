@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Darwin-clang++"
+	BuildStamp="20221124-1242-Experimental"
+	Name="Sebastians-MacBook-Pro.local"
+	Generator="ctest-3.24.1"
+	CompilerName="/usr/bin/clang++"
+	CompilerVersion="14.0.0.14000029"
+	OSName="macOS"
+	Hostname="Sebastians-MacBook-Pro.local"
+	OSRelease="13.0"
+	OSVersion="22A380"
+	OSPlatform="arm64"
+	Is64Bits="1"
+	VendorString="IBM"
+	VendorID="IBM"
+	FamilyID="16777228"
+	ModelID="2"
+	ProcessorCacheSize="131072"
+	NumberOfLogicalCPU="10"
+	NumberOfPhysicalCPU="10"
+	TotalVirtualMemory="0"
+	TotalPhysicalMemory="16384"
+	LogicalProcessorsPerPhysical="10"
+	ProcessorClockFrequency="0"
+	>
+	<Testing>
+		<StartDateTime>Nov 24 13:42 CET</StartDateTime>
+		<StartTestTime>1669293736</StartTestTime>
+		<TestList>
+			<Test>./tests/usage_test</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>usage_test</Name>
+			<Path>./tests</Path>
+			<FullName>./tests/usage_test</FullName>
+			<FullCommandLine>/Users/sebastianjohansen/Documents/GitHub/assignment-12-SebJohansen8763/build/tests/tests</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.218908</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/Users/sebastianjohansen/Documents/GitHub/assignment-12-SebJohansen8763/build/tests/tests</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyztaUq4PLLVyhJLS4pVihKzOPiAgAxkBdj====</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Nov 24 13:42 CET</EndDateTime>
+		<EndTestTime>1669293737</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

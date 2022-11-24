@@ -1,5 +1,5 @@
 #include "duration.hpp"
 
-int duration::(){
-
+int Duration::getDuration(){
+	return time;
 }
