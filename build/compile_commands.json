@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/sebastianjohansen/Documents/GitHub/assignment-12-SebJohansen8763/build",
+  "command": "/usr/bin/clang++  -I/Users/sebastianjohansen/Documents/GitHub/assignment-12-SebJohansen8763/include -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -std=gnu++14 -o CMakeFiles/mylib.dir/src/duration.cpp.o -c /Users/sebastianjohansen/Documents/GitHub/assignment-12-SebJohansen8763/src/duration.cpp",
+  "file": "/Users/sebastianjohansen/Documents/GitHub/assignment-12-SebJohansen8763/src/duration.cpp"
+},
+{
+  "directory": "/Users/sebastianjohansen/Documents/GitHub/assignment-12-SebJohansen8763/build",
+  "command": "/usr/bin/clang++  -I/Users/sebastianjohansen/Documents/GitHub/assignment-12-SebJohansen8763/include -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -g -O0 -std=gnu++14 -o CMakeFiles/main.dir/src/main.cpp.o -c /Users/sebastianjohansen/Documents/GitHub/assignment-12-SebJohansen8763/src/main.cpp",
+  "file": "/Users/sebastianjohansen/Documents/GitHub/assignment-12-SebJohansen8763/src/main.cpp"
+},
+{
+  "directory": "/Users/sebastianjohansen/Documents/GitHub/assignment-12-SebJohansen8763/build/tests",
+  "command": "/usr/bin/clang++  -I/Users/sebastianjohansen/Documents/GitHub/assignment-12-SebJohansen8763/tests/include -I/Users/sebastianjohansen/Documents/GitHub/assignment-12-SebJohansen8763/include -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -std=gnu++14 -o CMakeFiles/tests.dir/src/tests.cpp.o -c /Users/sebastianjohansen/Documents/GitHub/assignment-12-SebJohansen8763/tests/src/tests.cpp",
+  "file": "/Users/sebastianjohansen/Documents/GitHub/assignment-12-SebJohansen8763/tests/src/tests.cpp"
+}
+]
