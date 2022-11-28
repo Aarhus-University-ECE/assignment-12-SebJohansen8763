@@ -14,13 +14,6 @@ class Duration {
 
 	int getDuration();
 
-
-
-
-
-
-
-
 	~Duration();
 };
 #endif
