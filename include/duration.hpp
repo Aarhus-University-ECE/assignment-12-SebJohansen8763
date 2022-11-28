@@ -6,14 +6,31 @@ class Duration {
 
 	private:
 
-	int time;
+		int time;
+		int alarm;
+		bool alarmSet;
 
 	public:
 
-	Duration();
+		Duration(); //constructor
 
-	int getDuration();
+		int getDuration(); // returns the time
 
-	~Duration();
+		Duration(int t); //constructor
+
+		~Duration(); //destructor
+
+		bool Tick();
+
+		bool Tick(int dt); 
+
+		void SetAlarm(int t);
+
+		void setDuration(int t);
+
+		int getAlarm();
+
+		bool checkAndUpdateAlarm();
+
 };
 #endif
